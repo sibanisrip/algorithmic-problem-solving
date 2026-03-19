@@ -11,6 +11,7 @@ Solutions to LeetCode problems
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0066-plus-one) |
 ## Bit Manipulation
 |  |
