@@ -17,4 +17,12 @@ Solutions to LeetCode problems
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0136-single-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
