@@ -14,6 +14,7 @@ Solutions to LeetCode problems
 | ------- |
 | [0009-palindrome-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0069-sqrtx) |
 | [0976-largest-perimeter-triangle](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0976-largest-perimeter-triangle) |
 ## Bit Manipulation
 |  |
@@ -35,4 +36,8 @@ Solutions to LeetCode problems
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0976-largest-perimeter-triangle) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
