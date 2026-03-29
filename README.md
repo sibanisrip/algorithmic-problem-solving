@@ -10,6 +10,7 @@ Solutions to LeetCode problems
 | [0136-single-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0268-missing-number) |
 | [0976-largest-perimeter-triangle](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0976-largest-perimeter-triangle) |
+| [1929-concatenation-of-array](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
 | ------- |
@@ -55,4 +56,8 @@ Solutions to LeetCode problems
 | ------- |
 | [0013-roman-to-integer](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
