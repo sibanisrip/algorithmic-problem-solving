@@ -6,6 +6,7 @@ Solutions to LeetCode problems
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0268-missing-number) |
@@ -34,6 +35,7 @@ Solutions to LeetCode problems
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0344-reverse-string) |
 ## String
 |  |
