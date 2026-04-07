@@ -37,11 +37,13 @@ Solutions to LeetCode problems
 | ------- |
 | [0027-remove-element](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0709-to-lower-case](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0709-to-lower-case) |
 | [0819-most-common-word](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0819-most-common-word) |
 ## Greedy
