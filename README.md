@@ -23,6 +23,7 @@ Solutions to LeetCode problems
 | [0013-roman-to-integer](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0507-perfect-number) |
@@ -38,6 +39,7 @@ Solutions to LeetCode problems
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0027-remove-element) |
+| [0202-happy-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
@@ -67,6 +69,7 @@ Solutions to LeetCode problems
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0268-missing-number) |
 | [0819-most-common-word](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0819-most-common-word) |
 | [1748-sum-of-unique-elements](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1748-sum-of-unique-elements) |
