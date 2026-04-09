@@ -25,6 +25,7 @@ Solutions to LeetCode problems
 | [0069-sqrtx](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0367-valid-perfect-square) |
+| [0507-perfect-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0509-fibonacci-number) |
 | [0976-largest-perimeter-triangle](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0976-largest-perimeter-triangle) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/3591-check-if-any-element-has-prime-frequency) |
