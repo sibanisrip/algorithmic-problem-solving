@@ -24,6 +24,7 @@ Solutions to LeetCode problems
 | [0066-plus-one](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0412-fizz-buzz) |
