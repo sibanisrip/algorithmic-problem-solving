@@ -35,6 +35,7 @@ Solutions to LeetCode problems
 | [0628-maximum-product-of-three-numbers](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0976-largest-perimeter-triangle) |
 | [1360-number-of-days-between-two-dates](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1360-number-of-days-between-two-dates) |
+| [2235-add-two-integers](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/2235-add-two-integers) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Bit Manipulation
 |  |
