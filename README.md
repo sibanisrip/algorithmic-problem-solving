@@ -24,6 +24,7 @@ Solutions to LeetCode problems
 | [0013-roman-to-integer](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0069-sqrtx) |
+| [0168-excel-sheet-column-title](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0268-missing-number) |
@@ -55,6 +56,7 @@ Solutions to LeetCode problems
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0013-roman-to-integer) |
+| [0168-excel-sheet-column-title](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0412-fizz-buzz) |
