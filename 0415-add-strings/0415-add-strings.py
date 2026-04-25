@@ -9,8 +9,6 @@ class Solution:
             total = n1 + n2 + carry
             res = str(total % 10) + res 
             carry = total // 10
-
             i -= 1
             j -= 1
-
         return res
