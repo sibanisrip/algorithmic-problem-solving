@@ -39,6 +39,7 @@ Solutions to LeetCode problems
 | [0976-largest-perimeter-triangle](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0976-largest-perimeter-triangle) |
 | [1154-day-of-the-year](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1154-day-of-the-year) |
 | [1360-number-of-days-between-two-dates](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1360-number-of-days-between-two-dates) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/2235-add-two-integers) |
 | [3280-convert-date-to-binary](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/3280-convert-date-to-binary) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/3591-check-if-any-element-has-prime-frequency) |
