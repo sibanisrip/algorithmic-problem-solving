@@ -42,6 +42,7 @@ Solutions to LeetCode problems
 | [1360-number-of-days-between-two-dates](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1360-number-of-days-between-two-dates) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/2235-add-two-integers) |
+| [2469-convert-the-temperature](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/2469-convert-the-temperature) |
 | [3280-convert-date-to-binary](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/3280-convert-date-to-binary) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Bit Manipulation
