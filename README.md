@@ -38,6 +38,7 @@ Solutions to LeetCode problems
 | [0509-fibonacci-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0976-largest-perimeter-triangle) |
+| [1025-divisor-game](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1025-divisor-game) |
 | [1154-day-of-the-year](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1154-day-of-the-year) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1360-number-of-days-between-two-dates](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1360-number-of-days-between-two-dates) |
@@ -130,6 +131,7 @@ Solutions to LeetCode problems
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1025-divisor-game) |
 ## Recursion
 |  |
 | ------- |
@@ -142,8 +144,10 @@ Solutions to LeetCode problems
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
