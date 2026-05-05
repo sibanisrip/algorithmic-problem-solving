@@ -50,6 +50,7 @@ Solutions to LeetCode problems
 | [2652-sum-multiples](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/2652-sum-multiples) |
 | [3099-harshad-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/3099-harshad-number) |
 | [3280-convert-date-to-binary](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/3280-convert-date-to-binary) |
+| [3360-stone-removal-game](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/3360-stone-removal-game) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Bit Manipulation
 |  |
@@ -114,6 +115,7 @@ Solutions to LeetCode problems
 | [0415-add-strings](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1929-concatenation-of-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/2549-count-distinct-numbers-on-board) |
+| [3360-stone-removal-game](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/3360-stone-removal-game) |
 ## Enumeration
 |  |
 | ------- |
