@@ -51,12 +51,14 @@ Solutions to LeetCode problems
 | [3099-harshad-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/3099-harshad-number) |
 | [3280-convert-date-to-binary](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/3280-convert-date-to-binary) |
 | [3360-stone-removal-game](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/3360-stone-removal-game) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0268-missing-number) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Two Pointers
 |  |
 | ------- |
