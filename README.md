@@ -83,12 +83,14 @@ Solutions to LeetCode problems
 | [0709-to-lower-case](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0709-to-lower-case) |
 | [0819-most-common-word](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0819-most-common-word) |
 | [1154-day-of-the-year](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1154-day-of-the-year) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1360-number-of-days-between-two-dates](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1360-number-of-days-between-two-dates) |
 | [3280-convert-date-to-binary](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/3280-convert-date-to-binary) |
 ## Greedy
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0976-largest-perimeter-triangle) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2578-split-with-minimum-sum](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/2578-split-with-minimum-sum) |
 ## Sorting
 |  |
@@ -135,6 +137,7 @@ Solutions to LeetCode problems
 |  |
 | ------- |
 | [0819-most-common-word](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0819-most-common-word) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1748-sum-of-unique-elements](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1748-sum-of-unique-elements) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Number Theory
