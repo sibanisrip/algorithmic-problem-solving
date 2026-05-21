@@ -13,6 +13,7 @@ Solutions to LeetCode problems
 | [0217-contains-duplicate](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0819-most-common-word](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0819-most-common-word) |
 | [0905-sort-array-by-parity](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0905-sort-array-by-parity) |
@@ -103,6 +104,7 @@ Solutions to LeetCode problems
 | [0217-contains-duplicate](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0976-largest-perimeter-triangle) |
