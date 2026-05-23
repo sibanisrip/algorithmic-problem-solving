@@ -10,6 +10,7 @@ Solutions to LeetCode problems
 | [0035-search-insert-position](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0283-move-zeroes) |
@@ -101,6 +102,7 @@ Solutions to LeetCode problems
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0389-find-the-difference) |
@@ -120,6 +122,7 @@ Solutions to LeetCode problems
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0268-missing-number) |
@@ -145,6 +148,7 @@ Solutions to LeetCode problems
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0169-majority-element) |
 | [0819-most-common-word](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0819-most-common-word) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1748-sum-of-unique-elements](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1748-sum-of-unique-elements) |
@@ -176,4 +180,8 @@ Solutions to LeetCode problems
 | ------- |
 | [0292-nim-game](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1025-divisor-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
