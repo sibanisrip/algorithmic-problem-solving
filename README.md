@@ -14,6 +14,7 @@ Solutions to LeetCode problems
 | [0217-contains-duplicate](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0819-most-common-word](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0819-most-common-word) |
@@ -75,6 +76,7 @@ Solutions to LeetCode problems
 | [0283-move-zeroes](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0345-reverse-vowels-of-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0905-sort-array-by-parity) |
 ## String
 |  |
@@ -105,6 +107,7 @@ Solutions to LeetCode problems
 | [0169-majority-element](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
@@ -117,6 +120,7 @@ Solutions to LeetCode problems
 | [0035-search-insert-position](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0367-valid-perfect-square) |
 ## Hash Table
 |  |
@@ -126,6 +130,7 @@ Solutions to LeetCode problems
 | [0202-happy-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0389-find-the-difference) |
 | [0819-most-common-word](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0819-most-common-word) |
 | [1748-sum-of-unique-elements](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1748-sum-of-unique-elements) |
