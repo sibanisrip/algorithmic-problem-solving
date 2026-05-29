@@ -17,6 +17,7 @@ Solutions to LeetCode problems
 | [0350-intersection-of-two-arrays-ii](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0819-most-common-word](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0819-most-common-word) |
 | [0905-sort-array-by-parity](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0905-sort-array-by-parity) |
@@ -101,6 +102,7 @@ Solutions to LeetCode problems
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0561-array-partition) |
 | [0976-largest-perimeter-triangle](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0976-largest-perimeter-triangle) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2578-split-with-minimum-sum](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/2578-split-with-minimum-sum) |
@@ -113,6 +115,7 @@ Solutions to LeetCode problems
 | [0350-intersection-of-two-arrays-ii](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0976-largest-perimeter-triangle) |
@@ -196,4 +199,8 @@ Solutions to LeetCode problems
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
