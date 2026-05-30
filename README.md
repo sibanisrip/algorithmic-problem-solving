@@ -22,6 +22,7 @@ Solutions to LeetCode problems
 | [0819-most-common-word](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0819-most-common-word) |
 | [0905-sort-array-by-parity](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0976-largest-perimeter-triangle) |
+| [1051-height-checker](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1051-height-checker) |
 | [1748-sum-of-unique-elements](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1929-concatenation-of-array) |
 | [1995-count-special-quadruplets](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1995-count-special-quadruplets) |
@@ -119,6 +120,7 @@ Solutions to LeetCode problems
 | [0628-maximum-product-of-three-numbers](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0976-largest-perimeter-triangle) |
+| [1051-height-checker](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1051-height-checker) |
 | [2578-split-with-minimum-sum](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/2578-split-with-minimum-sum) |
 ## Binary Search
 |  |
@@ -203,4 +205,5 @@ Solutions to LeetCode problems
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
