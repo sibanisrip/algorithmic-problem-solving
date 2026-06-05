@@ -94,6 +94,7 @@ Solutions to LeetCode problems
 | [0389-find-the-difference](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0415-add-strings) |
+| [0459-repeated-substring-pattern](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0459-repeated-substring-pattern) |
 | [0504-base-7](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0504-base-7) |
 | [0709-to-lower-case](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0709-to-lower-case) |
 | [0819-most-common-word](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0819-most-common-word) |
@@ -203,6 +204,7 @@ Solutions to LeetCode problems
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0459-repeated-substring-pattern) |
 ## Counting Sort
 |  |
 | ------- |
