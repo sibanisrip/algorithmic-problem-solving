@@ -24,6 +24,7 @@ Solutions to LeetCode problems
 | [0905-sort-array-by-parity](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1051-height-checker) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1748-sum-of-unique-elements](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1929-concatenation-of-array) |
 | [1995-count-special-quadruplets](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1995-count-special-quadruplets) |
@@ -51,6 +52,7 @@ Solutions to LeetCode problems
 | [0976-largest-perimeter-triangle](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1025-divisor-game) |
 | [1154-day-of-the-year](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1154-day-of-the-year) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1360-number-of-days-between-two-dates](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1360-number-of-days-between-two-dates) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1523-count-odd-numbers-in-an-interval-range) |
