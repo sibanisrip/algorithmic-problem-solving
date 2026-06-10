@@ -23,6 +23,7 @@ Solutions to LeetCode problems
 | [0628-maximum-product-of-three-numbers](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0819-most-common-word](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0819-most-common-word) |
 | [0905-sort-array-by-parity](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0905-sort-array-by-parity) |
+| [0929-unique-email-addresses](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0929-unique-email-addresses) |
 | [0976-largest-perimeter-triangle](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -102,6 +103,7 @@ Solutions to LeetCode problems
 | [0504-base-7](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0504-base-7) |
 | [0709-to-lower-case](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0709-to-lower-case) |
 | [0819-most-common-word](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0819-most-common-word) |
+| [0929-unique-email-addresses](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0929-unique-email-addresses) |
 | [1154-day-of-the-year](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1154-day-of-the-year) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1360-number-of-days-between-two-dates](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1360-number-of-days-between-two-dates) |
@@ -149,6 +151,7 @@ Solutions to LeetCode problems
 | [0389-find-the-difference](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0389-find-the-difference) |
 | [0575-distribute-candies](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0575-distribute-candies) |
 | [0819-most-common-word](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0819-most-common-word) |
+| [0929-unique-email-addresses](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0929-unique-email-addresses) |
 | [1748-sum-of-unique-elements](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1748-sum-of-unique-elements) |
 | [1995-count-special-quadruplets](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1995-count-special-quadruplets) |
 | [2549-count-distinct-numbers-on-board](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/2549-count-distinct-numbers-on-board) |
