@@ -22,6 +22,7 @@ Solutions to LeetCode problems
 | [0575-distribute-candies](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0819-most-common-word](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0819-most-common-word) |
+| [0832-flipping-an-image](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0905-sort-array-by-parity) |
 | [0929-unique-email-addresses](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0929-unique-email-addresses) |
 | [0976-largest-perimeter-triangle](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0976-largest-perimeter-triangle) |
@@ -75,6 +76,7 @@ Solutions to LeetCode problems
 | [0136-single-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0389-find-the-difference) |
+| [0832-flipping-an-image](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0832-flipping-an-image) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Two Pointers
 |  |
@@ -87,6 +89,7 @@ Solutions to LeetCode problems
 | [0344-reverse-string](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0832-flipping-an-image](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0905-sort-array-by-parity) |
 ## String
 |  |
@@ -161,6 +164,7 @@ Solutions to LeetCode problems
 | ------- |
 | [0412-fizz-buzz](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0415-add-strings) |
+| [0832-flipping-an-image](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0832-flipping-an-image) |
 | [1929-concatenation-of-array](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1929-concatenation-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2549-count-distinct-numbers-on-board](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/2549-count-distinct-numbers-on-board) |
@@ -218,4 +222,8 @@ Solutions to LeetCode problems
 | ------- |
 | [0561-array-partition](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1051-height-checker) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
