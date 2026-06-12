@@ -28,6 +28,7 @@ Solutions to LeetCode problems
 | [0976-largest-perimeter-triangle](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1331-rank-transform-of-an-array](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1331-rank-transform-of-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1929-concatenation-of-array) |
 | [1995-count-special-quadruplets](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1995-count-special-quadruplets) |
@@ -133,6 +134,7 @@ Solutions to LeetCode problems
 | [0905-sort-array-by-parity](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1051-height-checker) |
+| [1331-rank-transform-of-an-array](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1331-rank-transform-of-an-array) |
 | [2578-split-with-minimum-sum](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/2578-split-with-minimum-sum) |
 ## Binary Search
 |  |
@@ -155,6 +157,7 @@ Solutions to LeetCode problems
 | [0575-distribute-candies](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0575-distribute-candies) |
 | [0819-most-common-word](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0819-most-common-word) |
 | [0929-unique-email-addresses](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0929-unique-email-addresses) |
+| [1331-rank-transform-of-an-array](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1331-rank-transform-of-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1748-sum-of-unique-elements) |
 | [1995-count-special-quadruplets](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1995-count-special-quadruplets) |
 | [2549-count-distinct-numbers-on-board](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/2549-count-distinct-numbers-on-board) |
