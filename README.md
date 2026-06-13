@@ -29,6 +29,7 @@ Solutions to LeetCode problems
 | [1051-height-checker](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1331-rank-transform-of-an-array) |
+| [1408-string-matching-in-an-array](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1408-string-matching-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1929-concatenation-of-array) |
 | [1995-count-special-quadruplets](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1995-count-special-quadruplets) |
@@ -111,6 +112,7 @@ Solutions to LeetCode problems
 | [1154-day-of-the-year](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1154-day-of-the-year) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1360-number-of-days-between-two-dates](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1360-number-of-days-between-two-dates) |
+| [1408-string-matching-in-an-array](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1408-string-matching-in-an-array) |
 | [3280-convert-date-to-binary](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/3280-convert-date-to-binary) |
 ## Greedy
 |  |
@@ -220,6 +222,7 @@ Solutions to LeetCode problems
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0459-repeated-substring-pattern) |
+| [1408-string-matching-in-an-array](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1408-string-matching-in-an-array) |
 ## Counting Sort
 |  |
 | ------- |
