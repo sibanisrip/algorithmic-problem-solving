@@ -27,6 +27,7 @@ Solutions to LeetCode problems
 | [0905-sort-array-by-parity](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0905-sort-array-by-parity) |
 | [0929-unique-email-addresses](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0929-unique-email-addresses) |
 | [0976-largest-perimeter-triangle](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0976-largest-perimeter-triangle) |
+| [0977-squares-of-a-sorted-array](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1331-rank-transform-of-an-array) |
@@ -94,6 +95,7 @@ Solutions to LeetCode problems
 | [0350-intersection-of-two-arrays-ii](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0832-flipping-an-image](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -137,6 +139,7 @@ Solutions to LeetCode problems
 | [0628-maximum-product-of-three-numbers](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0976-largest-perimeter-triangle) |
+| [0977-squares-of-a-sorted-array](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1331-rank-transform-of-an-array) |
 | [2578-split-with-minimum-sum](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/2578-split-with-minimum-sum) |
