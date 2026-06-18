@@ -29,6 +29,7 @@ Solutions to LeetCode problems
 | [0976-largest-perimeter-triangle](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1051-height-checker) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1331-rank-transform-of-an-array) |
 | [1408-string-matching-in-an-array](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1408-string-matching-in-an-array) |
@@ -59,6 +60,7 @@ Solutions to LeetCode problems
 | [0976-largest-perimeter-triangle](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1025-divisor-game) |
 | [1154-day-of-the-year](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1154-day-of-the-year) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1360-number-of-days-between-two-dates](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1360-number-of-days-between-two-dates) |
@@ -237,4 +239,8 @@ Solutions to LeetCode problems
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0832-flipping-an-image) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
