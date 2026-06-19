@@ -37,6 +37,7 @@ Solutions to LeetCode problems
 | [1929-concatenation-of-array](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1929-concatenation-of-array) |
 | [1995-count-special-quadruplets](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1995-count-special-quadruplets) |
 | [2549-count-distinct-numbers-on-board](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/2549-count-distinct-numbers-on-board) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Math
 |  |
@@ -119,6 +120,7 @@ Solutions to LeetCode problems
 | [1221-split-a-string-in-balanced-strings](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1360-number-of-days-between-two-dates](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1360-number-of-days-between-two-dates) |
 | [1408-string-matching-in-an-array](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1408-string-matching-in-an-array) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3280-convert-date-to-binary](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/3280-convert-date-to-binary) |
 ## Greedy
 |  |
@@ -170,6 +172,7 @@ Solutions to LeetCode problems
 | [1748-sum-of-unique-elements](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1748-sum-of-unique-elements) |
 | [1995-count-special-quadruplets](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1995-count-special-quadruplets) |
 | [2549-count-distinct-numbers-on-board](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/2549-count-distinct-numbers-on-board) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Simulation
 |  |
@@ -180,6 +183,7 @@ Solutions to LeetCode problems
 | [1929-concatenation-of-array](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1929-concatenation-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2549-count-distinct-numbers-on-board](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/2549-count-distinct-numbers-on-board) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3360-stone-removal-game](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/3360-stone-removal-game) |
 ## Enumeration
 |  |
