@@ -17,6 +17,7 @@ Solutions to LeetCode problems
 | [0283-move-zeroes](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0575-distribute-candies) |
@@ -165,6 +166,7 @@ Solutions to LeetCode problems
 | [0268-missing-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0575-distribute-candies) |
 | [0819-most-common-word](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0819-most-common-word) |
 | [0929-unique-email-addresses](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0929-unique-email-addresses) |
