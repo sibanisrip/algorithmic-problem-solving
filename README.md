@@ -6,6 +6,7 @@ Solutions to LeetCode problems
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0066-plus-one) |
@@ -104,6 +105,7 @@ Solutions to LeetCode problems
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0344-reverse-string) |
@@ -249,4 +251,8 @@ Solutions to LeetCode problems
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1232-check-if-it-is-a-straight-line) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
