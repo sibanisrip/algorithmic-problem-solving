@@ -26,6 +26,7 @@ Solutions to LeetCode problems
 | [0806-number-of-lines-to-write-string](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0819-most-common-word) |
 | [0832-flipping-an-image](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0832-flipping-an-image) |
+| [0896-monotonic-array](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0905-sort-array-by-parity) |
 | [0929-unique-email-addresses](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0929-unique-email-addresses) |
 | [0976-largest-perimeter-triangle](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0976-largest-perimeter-triangle) |
