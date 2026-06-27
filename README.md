@@ -116,6 +116,7 @@ Solutions to LeetCode problems
 | [0415-add-strings](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0459-repeated-substring-pattern) |
 | [0504-base-7](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0504-base-7) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0709-to-lower-case](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0709-to-lower-case) |
 | [0806-number-of-lines-to-write-string](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0819-most-common-word) |
