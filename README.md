@@ -127,6 +127,7 @@ Solutions to LeetCode problems
 | [1221-split-a-string-in-balanced-strings](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1360-number-of-days-between-two-dates](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1360-number-of-days-between-two-dates) |
 | [1408-string-matching-in-an-array](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1408-string-matching-in-an-array) |
+| [1859-sorting-the-sentence](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1859-sorting-the-sentence) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3280-convert-date-to-binary](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/3280-convert-date-to-binary) |
 ## Greedy
@@ -154,6 +155,7 @@ Solutions to LeetCode problems
 | [1051-height-checker](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1859-sorting-the-sentence](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1859-sorting-the-sentence) |
 | [2578-split-with-minimum-sum](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/2578-split-with-minimum-sum) |
 ## Binary Search
 |  |
