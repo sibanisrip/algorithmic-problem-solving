@@ -26,6 +26,7 @@ Solutions to LeetCode problems
 | [0806-number-of-lines-to-write-string](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0819-most-common-word) |
 | [0832-flipping-an-image](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0832-flipping-an-image) |
+| [0888-fair-candy-swap](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0888-fair-candy-swap) |
 | [0896-monotonic-array](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0905-sort-array-by-parity) |
 | [0929-unique-email-addresses](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0929-unique-email-addresses) |
@@ -149,6 +150,7 @@ Solutions to LeetCode problems
 | [0414-third-maximum-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
+| [0888-fair-candy-swap](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0977-squares-of-a-sorted-array) |
@@ -165,6 +167,7 @@ Solutions to LeetCode problems
 | [0268-missing-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0367-valid-perfect-square) |
+| [0888-fair-candy-swap](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0888-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Hash Table
 |  |
@@ -179,6 +182,7 @@ Solutions to LeetCode problems
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0575-distribute-candies) |
 | [0819-most-common-word](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0819-most-common-word) |
+| [0888-fair-candy-swap](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0888-fair-candy-swap) |
 | [0929-unique-email-addresses](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0929-unique-email-addresses) |
 | [1331-rank-transform-of-an-array](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1346-check-if-n-and-its-double-exist) |
