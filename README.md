@@ -32,6 +32,7 @@ Solutions to LeetCode problems
 | [0929-unique-email-addresses](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0929-unique-email-addresses) |
 | [0976-largest-perimeter-triangle](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0977-squares-of-a-sorted-array) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1030-matrix-cells-in-distance-order](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1051-height-checker) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -91,6 +92,7 @@ Solutions to LeetCode problems
 | [0268-missing-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0832-flipping-an-image) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1018-binary-prefix-divisible-by-5) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Two Pointers
 |  |
