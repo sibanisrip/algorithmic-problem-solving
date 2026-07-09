@@ -46,6 +46,7 @@ Solutions to LeetCode problems
 | [1995-count-special-quadruplets](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1995-count-special-quadruplets) |
 | [2549-count-distinct-numbers-on-board](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/2549-count-distinct-numbers-on-board) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3200-maximum-height-of-a-triangle](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/3200-maximum-height-of-a-triangle) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Math
 |  |
@@ -213,6 +214,7 @@ Solutions to LeetCode problems
 |  |
 | ------- |
 | [1995-count-special-quadruplets](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1995-count-special-quadruplets) |
+| [3200-maximum-height-of-a-triangle](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/3200-maximum-height-of-a-triangle) |
 ## Counting
 |  |
 | ------- |
