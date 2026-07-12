@@ -24,6 +24,7 @@ Solutions to LeetCode problems
 | [0561-array-partition](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0645-set-mismatch) |
 | [0806-number-of-lines-to-write-string](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0819-most-common-word) |
 | [0832-flipping-an-image](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0832-flipping-an-image) |
@@ -93,6 +94,7 @@ Solutions to LeetCode problems
 | [0136-single-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0832-flipping-an-image) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1018-binary-prefix-divisible-by-5) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/3370-smallest-number-with-all-set-bits) |
@@ -160,6 +162,7 @@ Solutions to LeetCode problems
 | [0506-relative-ranks](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0976-largest-perimeter-triangle) |
@@ -193,6 +196,7 @@ Solutions to LeetCode problems
 | [0389-find-the-difference](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0575-distribute-candies) |
+| [0645-set-mismatch](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0645-set-mismatch) |
 | [0819-most-common-word](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0819-most-common-word) |
 | [0888-fair-candy-swap](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0888-fair-candy-swap) |
 | [0929-unique-email-addresses](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0929-unique-email-addresses) |
