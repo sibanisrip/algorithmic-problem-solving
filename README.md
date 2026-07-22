@@ -42,6 +42,7 @@ Solutions to LeetCode problems
 | [1331-rank-transform-of-an-array](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1408-string-matching-in-an-array](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1408-string-matching-in-an-array) |
+| [1528-shuffle-string](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1528-shuffle-string) |
 | [1748-sum-of-unique-elements](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1929-concatenation-of-array) |
 | [1995-count-special-quadruplets](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1995-count-special-quadruplets) |
@@ -139,6 +140,7 @@ Solutions to LeetCode problems
 | [1221-split-a-string-in-balanced-strings](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1360-number-of-days-between-two-dates](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1360-number-of-days-between-two-dates) |
 | [1408-string-matching-in-an-array](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1408-string-matching-in-an-array) |
+| [1528-shuffle-string](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1528-shuffle-string) |
 | [1859-sorting-the-sentence](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1859-sorting-the-sentence) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3280-convert-date-to-binary](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/3280-convert-date-to-binary) |
