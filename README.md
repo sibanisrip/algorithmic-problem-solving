@@ -296,4 +296,8 @@ Solutions to LeetCode problems
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0506-relative-ranks) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
