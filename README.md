@@ -58,6 +58,7 @@ Solutions to LeetCode problems
 | [0013-roman-to-integer](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0263-ugly-number) |
@@ -243,6 +244,7 @@ Solutions to LeetCode problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1025-divisor-game) |
 ## Recursion
@@ -252,6 +254,7 @@ Solutions to LeetCode problems
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0509-fibonacci-number) |
 ## Brainteaser
 |  |
