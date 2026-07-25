@@ -65,6 +65,7 @@ Solutions to LeetCode problems
 | [0268-missing-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0367-valid-perfect-square) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0504-base-7) |
@@ -97,6 +98,7 @@ Solutions to LeetCode problems
 | [0136-single-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0832-flipping-an-image) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -129,6 +131,7 @@ Solutions to LeetCode problems
 | [0344-reverse-string](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0459-repeated-substring-pattern) |
