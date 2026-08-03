@@ -11,6 +11,7 @@ Solutions to LeetCode problems
 | [0035-search-insert-position](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0217-contains-duplicate) |
@@ -273,6 +274,7 @@ Solutions to LeetCode problems
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0169-majority-element) |
 ## String Matching
 |  |
@@ -307,4 +309,16 @@ Solutions to LeetCode problems
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0197-rising-temperature) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sibanisrip/algorithmic-problem-solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
